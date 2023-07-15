@@ -1,6 +1,6 @@
 <img align="right" width="1000" height="300" src="./Image/Banner2.png"></img>\
 <h1 align="center">Hi! I am Sadman Yasir Rafat</h1>
-<div display="flex">
+<div display="flex" justify-content="center">
   <img src="https://i.ibb.co/nc3vLxb/HTML.png"/>
   <img src="https://i.ibb.co/r7GPQVY/css.png"/>
   <img src="https://i.ibb.co/FBpL8jC/Bootsrap.png"/>
