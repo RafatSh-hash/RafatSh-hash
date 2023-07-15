@@ -8,7 +8,6 @@
   <img src="https://i.ibb.co/kJ0Dn4j/Java-Script.png"/>
   <img src="https://i.ibb.co/tpWNSNx/react.png"/>
   <img src="https://i.ibb.co/pn6wNHp/node.png"/>
-  <img src="https://i.ibb.co/kJ0Dn4j/Java-Script.png"/>
   <img src="https://i.ibb.co/9v0HyHw/express.png"/>
   
   
